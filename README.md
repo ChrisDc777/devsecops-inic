@@ -83,7 +83,7 @@
 
    - This will provide you with the external IP for your application, which you can access through a browser.
 
-![Screenshot 2024-11-01 022138](https://github.com/user-attachments/assets/ccef8996-9319-47e4-9a2f-a21f548159aa)
+<img src="https://github.com/user-attachments/assets/ccef8996-9319-47e4-9a2f-a21f548159aa" alt="Front page" width="1000">
 
 <br>
 
@@ -176,5 +176,5 @@ pipeline {
 
 <br/>
 
-![Screenshot 2024-11-01 022447](https://github.com/user-attachments/assets/8269fd4f-7b63-4d0c-8cd3-e4b244e2eb9c)
+<img src="https://github.com/user-attachments/assets/8269fd4f-7b63-4d0c-8cd3-e4b244e2eb9c" alt="Front page" width="1000">
 
